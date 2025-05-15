@@ -1,0 +1,6 @@
+Sure, here's the contents for the file: /pygame-web-game/pygame-web-game/requirements.txt
+
+pygame
+pygame[image]
+pygame[audio]
+asyncio
